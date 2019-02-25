@@ -3,22 +3,23 @@
  *  @name Urdu
  *  @anchor Urdu
  *  @author Zafar Subzwari
+ *  @edited by Muhammad Irfan Tariq
  */
 
 {
-	"sProcessing":   "ہے جاري عملدرامد...",
-	"sLengthMenu":   "دکہائين شقيں کي (_MENU_) فہرست",
-	"sZeroRecords":  "ملے نہيں مفروضات جلتے ملتے کوئ",
-	"sInfo":         "فہرست کي تک _END_ سے _START_ سے ميں _TOTAL_ فہرست پوري ہے نظر پيش",
-	"sInfoEmpty":    "فہرست کي تک 0 سے 0 سے ميں 0 قل ہے نظر پيشّ",
-	"sInfoFiltered": "(فہرست ہوئ چھني سے ميں _MAX_ قل)",
+	"sProcessing":   "ہے جاری عملدرامد...",
+	"sLengthMenu":   "دکہائيں شقيں کی (_MENU_) فہرست",
+	"sZeroRecords":  "ملے نہيں مفروضات جلتے ملتے کوئی",
+	"sInfo":         "فہرست کی تک _END_ سے _START_ سے ميں _TOTAL_ فہرست پوری ہے نظر پیشِ",
+	"sInfoEmpty":    "فہرست کی تک 0 سے 0 سے ميں 0 کُل ہے نظر پیشِ",
+	"sInfoFiltered": "(فہرست ہوئی چھنی سے ميں _MAX_ کُل)",
 	"sInfoPostFix":  "",
 	"sSearch":       "کرو تلاش:",
 	"sUrl":          "",
 	"oPaginate": {
 		"sFirst":    "پہلا",
-		"sPrevious": "پچہلا",
+		"sPrevious": "پچھلا",
 		"sNext":     "اگلا",
-		"sLast":     "آخري"
+		"sLast":     "آخری"
 	}
 }
